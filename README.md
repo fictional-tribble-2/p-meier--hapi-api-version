@@ -2,7 +2,7 @@
 
 __Lead Maintainer: [Tim Costa](https://github.com/timcosta)__
 
-[![Build Status](https://travis-ci.org/p-meier/hapi-api-version.svg?branch=master)](https://travis-ci.org/p-meier/hapi-api-version) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/p-meier--hapi-api-version.svg)](https://www.staging.guardrails.io)
+[![Build Status](https://travis-ci.org/p-meier/hapi-api-version.svg?branch=master)](https://travis-ci.org/p-meier/hapi-api-version) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/p-meier--hapi-api-version.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/p-meier--hapi-api-version.svg)](https://www.guardrails.io)
 
 An API versioning plugin for [hapi](http://hapijs.com/) v17 onwards.
 
